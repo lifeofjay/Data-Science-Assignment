@@ -1,1 +1,1 @@
-# Data-Science-Assignment
+# Data-Science-Assignment. The repo for datasceince exercises
